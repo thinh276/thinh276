@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thinh276
+- 👋 Hi, I’m Phan Quang Thinh (student)
 - 👀 I’m interested in Computer Vision
 <!---
 - 🌱 I’m currently learning Machine Learning
